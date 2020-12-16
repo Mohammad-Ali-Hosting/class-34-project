@@ -1,1 +1,1 @@
-# class-34-project
+# Project-34
